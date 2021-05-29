@@ -1,6 +1,8 @@
 # The Counter
 Simple Counter JavaScript Basics. 
 
+LINK: compassionate-benz-f840c7.netlify.app
+
 This program is a simple counter made with Visual Studio Code. 
 This is the code with the JavaScript implementation. 
 
