@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>THE COUNTER</title>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+
+
+
+<body>
+  <div class="main">
+
+    <h3>Michele Stracuzzi<br>JavaScript Basics</h3>
+    <h1>THE COUNTER</h1>
+    <button id="plusButton">+</button>
+    <button id="minusButton">-</button>
+    <p id="theCounter">0</p>
+ 
+
+  </div>
+</body>
+
+</html>
+
+<!-- =================== Start JavaScript ================== -->
+
+<script>
+
+  window.onload=function() {
+
+      var plusButton = document.getElementById('plusButton');
+      var minusButton = document.getElementById('minusButton');
+      var theCounter = document.getElementById('theCounter');
+      var currentValue = 0;
+
+      function increaseNumber() {
+          currentValue+=1;
+          theCounter.innerHTML=currentValue;
+      }
+
+      function decreaseNumber() {
+          currentValue-=1;
+          theCounter.innerHTML=currentValue;
+      }
+
+      plusButton.addEventListener('click',increaseNumber);
+      minusButton.addEventListener('click',decreaseNumber);
+
+  };
+
+</script>
+
+<!-- =================== End JavaScript ================== -->
