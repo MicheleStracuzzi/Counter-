@@ -6,8 +6,8 @@ body {
   url(https://images.freeimages.com/images/large-previews/a3b/website-rays-background-pattern-1637863.png);
   background-repeat: no-repeat, no-repeat;
   background-position-x: center, center;
-  background-size: auto, auto;
-}
+  background-size: 75%, 100%;
+  }
 
 .main {
   margin: 200px auto;
