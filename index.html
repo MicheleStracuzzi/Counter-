@@ -6,8 +6,7 @@
   <meta charset="UTF-8">
   <title>THE COUNTER</title>
   <link rel="stylesheet" href="./css/style.css">
-  <meta name="viewport" content="width=device-width, user-scalable=no,
-initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+  <meta name="viewport" content="width=device-width">
 </head>
 
 
@@ -29,30 +28,7 @@ initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
 
 <!-- =================== Start JavaScript ================== -->
 
-<script>
-
-  window.onload=function() {
-
-      var plusButton = document.getElementById('plusButton');
-      var minusButton = document.getElementById('minusButton');
-      var theCounter = document.getElementById('theCounter');
-      var currentValue = 0;
-
-      function increaseNumber() {
-          currentValue+=1;
-          theCounter.innerHTML=currentValue;
-      }
-
-      function decreaseNumber() {
-          currentValue-=1;
-          theCounter.innerHTML=currentValue;
-      }
-
-      plusButton.addEventListener('click',increaseNumber);
-      minusButton.addEventListener('click',decreaseNumber);
-
-  };
-
+<script src="./js/js.js">
 </script>
 
 <!-- =================== End JavaScript ================== -->
