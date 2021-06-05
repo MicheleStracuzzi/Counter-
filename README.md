@@ -6,22 +6,20 @@ LINK: compassionate-benz-f840c7.netlify.app
 This program is a simple counter made with Visual Studio Code. 
 This is the code with the JavaScript implementation. 
 
-![the counter 1](https://user-images.githubusercontent.com/84871570/120080870-0168e100-c0bb-11eb-8611-cdc033237f73.PNG)
 
-
-![the counter 2](https://user-images.githubusercontent.com/84871570/120080876-062d9500-c0bb-11eb-8381-7b779d698080.PNG)
+![the counter 1](https://user-images.githubusercontent.com/84871570/120884902-34910000-c5e6-11eb-97f4-083320ce8f5e.PNG)
+![the counter 2](https://user-images.githubusercontent.com/84871570/120884905-378bf080-c5e6-11eb-8454-38ecbd2c49d6.PNG)
 
 
 After this, I added style with CSS. 
 
-![the counter 3](https://user-images.githubusercontent.com/84871570/120080911-23626380-c0bb-11eb-955c-72cb06f5a17b.PNG)
 
-
-![the counter 4](https://user-images.githubusercontent.com/84871570/120080915-265d5400-c0bb-11eb-8664-4db4c1a504ea.PNG)
+![the counter 3](https://user-images.githubusercontent.com/84871570/120884913-407cc200-c5e6-11eb-8dbc-6051829e92ea.PNG)
+![the counter 4](https://user-images.githubusercontent.com/84871570/120884914-42468580-c5e6-11eb-826e-2d6ff2ebc013.PNG)
 
 
 And the result! 
 
-![the counter 5](https://user-images.githubusercontent.com/84871570/120080931-383ef700-c0bb-11eb-81a6-8b2bd66d058f.PNG)
+
 
 
