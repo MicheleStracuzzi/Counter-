@@ -2,10 +2,9 @@
 
 body {
   background-image: 
-  url(https://i1.wp.com/www.crowdfundingbuzz.it/wp-content/uploads/2018/01/Start2Impact.png?w=400&ssl=1),
   url(https://images.freeimages.com/images/large-previews/a3b/website-rays-background-pattern-1637863.png);
-  background-repeat: no-repeat, no-repeat;
-  background-position-x: center, center;
+  background-repeat: no-repeat;
+  background-position-x: center;
   }
 
 .main {
